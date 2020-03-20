@@ -1,0 +1,32 @@
+.logo {
+    width: auto;
+    height: 100%;
+}
+
+.kiwi {
+    fill: #94d31b;
+}
+.kiwi:hover {
+    fill: #ace63c;
+}
+
+.ground {
+    fill: #787f6a;
+}
+
+.ground:hover {
+    fill: #896d3d;
+}
+
+
+svg > path {
+    opacity: 0.5;
+}
+
+svg  > * {
+    transition: ease-in-out 0.4s;
+}
+
+svg:hover > path {
+    opacity: 1;
+}

@@ -1,0 +1,32 @@
+{"data": [
+  {
+    "id" : 1,
+    "name" : "Dylan",
+    "ducks" : 1,
+    "dollarsPerDuck": 4
+  },
+  {
+    "id" : 2,
+    "name" : "Evan",
+    "ducks" : 0,
+    "dollarsPerDuck": -2
+  },
+  {
+    "id" : 3,
+    "name" : "Jozehan",
+    "ducks" : 0,
+    "dollarsPerDuck": 1
+  },
+  {
+    "id" : 2,
+    "name" : "Charne",
+    "ducks" : 3,
+    "dollarsPerDuck": 16
+  },
+  {
+    "id" : 2,
+    "name" : "David",
+    "ducks" : 8,
+    "dollarsPerDuck": 99
+  }
+]}
